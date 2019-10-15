@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/TailspinRaise/Space%20Game-Web/_apis/build/status/raiseazam.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://dev.azure.com/TailspinRaise/Space%20Game-Web/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
